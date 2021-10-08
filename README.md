@@ -39,14 +39,14 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompt, proceed through the following steps.
 
-![Loan Qualifier Prompts](C:\Users\oward\Desktop\FinTech_Workspace\Challanges\Loan-Qualifer-App\Images\usage.JPG)
+![Loan Qualifier Prompts](Images/usage.png)
 
 
 ---
 
 ## Contributors
 
-Made by Owen Wardlaw owardlaw@ucsd.edu
+Made by Owen Wardlaw owardlaw@ucsd.edu.
 ---
 
 ## License
