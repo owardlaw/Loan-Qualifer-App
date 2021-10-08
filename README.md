@@ -39,7 +39,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompt, proceed through the following steps.
 
-![Loan Qualifier Prompts](Images/usage.png)
+![Loan Qualifier Start](Loan-Qualifer-App\Images\usage.png)
 
 
 ---
