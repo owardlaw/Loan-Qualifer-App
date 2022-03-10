@@ -39,7 +39,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompt, proceed through the following steps.
 
-![](usage.png)
+![](Images/usage.png)
 
 
 ---
